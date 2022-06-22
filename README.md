@@ -12,6 +12,11 @@ I was able to develop some Virtual Reality applications on Unity for MetaQuest 2
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisforestier&layout=compact&theme=gotham" />
 </p>
 
+## 📫 How to reach me:
+LinkedIn: <a href="https://linkedin.com/in/louis-forestier"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="15" width="15"/></a>
+
+Mail: loforestier@laposte.net
+
 <!--
 **louisforestier/louisforestier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
