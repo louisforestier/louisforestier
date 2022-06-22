@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :rocket: Visitors 
+
+<p><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=louisforestier.visitor" alt="LouisForestierVisitor" /></p>
