@@ -6,7 +6,7 @@ I'm a first year student in a Master's degree in Computer Science, and I'm looki
 I already have some knowledge in OpenGL and I'm getting my first hands on Vulkan.
 I am also interested in VR and AR. I was able to develop some Virtual Reality applications on Unity for MetaQuest 2, I would now like to discover augmented reality.
 
-## 🔭 I’m currently working on VR app at SERLI.
+## 🔭 I’m currently working on VR app at <a href="https://www.serli.com/">SERLI</a>.
 I was able to develop some Virtual Reality applications on Unity for MetaQuest 2, I would now like to discover augmented reality.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisforestier&layout=compact&theme=gotham" />
