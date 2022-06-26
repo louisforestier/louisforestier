@@ -7,7 +7,7 @@ I already have some knowledge in OpenGL and I'm getting my first hands on Vulkan
 I am also interested in VR and AR. I was able to develop some Virtual Reality applications on Unity for MetaQuest 2, I would now like to discover augmented reality.
 
 ## 🔭 I’m currently working on VR app at <a href="https://www.serli.com/">SERLI</a>.
-I was able to develop some Virtual Reality applications on Unity for MetaQuest 2, I would now like to discover augmented reality.
+I was able to use my knowledge of Unity and MetaQuest for this project. For now, we are studying the possibilities of a native application in C++ with OpenXR and OpenGL.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisforestier&layout=compact&theme=gotham" />
 </p>
