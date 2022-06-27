@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Louis Forestier, aka Ghalaodh#1086 on Discord.
+# Hi there 👋 I'm Louis Forestier, aka Ghalaodh#1086 on Discord.
 
 I'm a first year student in a Master's degree in Computer Science, and I'm looking to specialize in graphic programming. 
 
